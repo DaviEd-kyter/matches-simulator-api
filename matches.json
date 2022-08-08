@@ -1,1 +1,19 @@
-
+[
+  {
+    "descricao": "Campeonato Mundial de Voleibol Masculino de 2022",
+    "local": {
+      "nome": "Arena Gliwice",
+      "imagem":"TODO"
+    },
+    "mandante":{
+      "nome": "Brasil",
+      "forca": 5,
+      "imagem": "TODO"
+    },
+    "visitante":{
+      "nome": "Argentina",
+      "forca": 5,
+      "imagem": "TODO"
+    }
+  }    
+]
