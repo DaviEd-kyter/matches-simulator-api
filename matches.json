@@ -3,7 +3,7 @@
     "descricao": "Campeonato Mundial de Voleibol Masculino de 2022",
     "local": {
       "nome": "Arena Gliwice",
-      "imagem":"TODO"
+      "imagem":"https://pt.wikipedia.org/wiki/Campeonato_Mundial_de_Voleibol_Masculino_de_2022#/media/Ficheiro:Hala-gliwice-20170620.jpg"
     },
     "mandante":{
       "nome": "Brasil",
@@ -20,7 +20,7 @@
     "descricao": "Campeonato Mundial de Voleibol Masculino de 2022",
     "local": {
       "nome": "Arena Stožice",
-      "imagem":"TODO"
+      "imagem":"https://pt.wikipedia.org/wiki/Campeonato_Mundial_de_Voleibol_Masculino_de_2022#/media/Ficheiro:Arena_Sto%C5%BEice_(SLO).jpg"
     },
     "mandante":{
       "nome": "Argentina",
@@ -37,7 +37,7 @@
     "descricao": "Campeonato Mundial de Voleibol Masculino de 2022",
     "local": {
       "nome": "Spodek",
-      "imagem":"TODO"
+      "imagem":"https://upload.wikimedia.org/wikipedia/commons/b/b4/Katowice%2C_Hala_widowiskowo-sportowa_SPODEK_-_fotopolska.eu_%284529%29.jpg"
     },
     "mandante":{
       "nome": "Brasil",
@@ -54,7 +54,7 @@
     "descricao": "Campeonato Mundial de Voleibol Masculino de 2022",
     "local": {
       "nome": "Arena Stožice",
-      "imagem":"TODO"
+      "imagem":"https://pt.wikipedia.org/wiki/Campeonato_Mundial_de_Voleibol_Masculino_de_2022#/media/Ficheiro:Arena_Sto%C5%BEice_(SLO).jpg"
     },
     "mandante":{
       "nome": "Alemanha",
